@@ -9,7 +9,7 @@ from agents.slide_generator import outline_to_pptx
 
 # Utils
 from utils.fs import DATA_IN
-from utils import auth   # 🔥 auth utils
+from utils import auth   # 🔥 auth utils    
 
 st.set_page_config(page_title="Lecture Notes Processor", layout="wide")
 
